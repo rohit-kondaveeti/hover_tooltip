@@ -2,7 +2,7 @@
   "name": "hover_tooltip",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rohit-kondaveeti.github.io/tooltip.git",
+  "homepage": "https://rohit-kondaveeti.github.io/tooltip",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
